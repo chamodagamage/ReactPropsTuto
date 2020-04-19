@@ -1,2 +1,0 @@
-# ReactPropsTuto
-Created with CodeSandbox
